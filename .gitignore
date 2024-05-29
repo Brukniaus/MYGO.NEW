@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Snake game/Assets/CodeMonkey/Assets/White_1x1.mat
+*.prefab
