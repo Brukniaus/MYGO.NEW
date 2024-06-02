@@ -1,6 +1,6 @@
 # Mygo
 
-1. Koks projektas?  Snake game
+1. Koks projektas?  Endless Cat Runner
 2. Kokia funkciją atlieka projektas? Kokia jo nauda? Muzikos pažinties ir gero laisvalaiko praleidimas.
 3. PC/mobile? Jei mobile - android/iOS? PC
 4. Kokios technologijos bus reikalingos projektui?
